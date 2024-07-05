@@ -45,5 +45,5 @@ def lookup(name: str) -> str:
 
 
 if __name__ == "__main__":
-    linkedin_url = lookup(name="Udochukwu Reginald")
+    linkedin_url = lookup(name="Eden Marco")
     print(linkedin_url)
